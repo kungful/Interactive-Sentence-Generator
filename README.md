@@ -1,4 +1,4 @@
-# 版权属于全世界无产阶级者
+# 版权归全世界无产阶级者
 
 # 交互式发散思维单词记忆工具 (Interactive Sentence Generator)
 
