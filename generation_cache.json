@@ -1,0 +1,81 @@
+[
+    {
+        "word": "love",
+        "sentence": "I love spending time with my family.",
+        "words": [
+            "I",
+            "love",
+            "spending",
+            "time",
+            "with",
+            "my",
+            "family."
+        ],
+        "translation_text": "**音标:** /lʌv/\n\n**n.** 爱, 爱情; 热爱\n**v.** 爱, 热爱; 喜欢",
+        "audio_path": "generated_audio\\love_us.mp3"
+    },
+    {
+        "word": "spending",
+        "sentence": "She is spending her vacation in Hawaii.",
+        "words": [
+            "She",
+            "is",
+            "spending",
+            "her",
+            "vacation",
+            "in",
+            "Hawaii."
+        ],
+        "translation_text": "**音标:** /ˈspɛndɪŋ/\n\n**n.** 花费, 开销\n**v.** 花费, 消耗 (spend的现在分词)",
+        "audio_path": "generated_audio\\spending_us.mp3"
+    },
+    {
+        "word": "like",
+        "sentence": "I like to eat ice cream in the summer.",
+        "words": [
+            "I",
+            "like",
+            "to",
+            "eat",
+            "ice",
+            "cream",
+            "in",
+            "the",
+            "summer."
+        ],
+        "translation_text": "**音标:** /laɪk/\n\n**v.** 喜欢, 喜爱\n**prep.** 像, 如同\n**adj.** 相似的, 相同的\n**n.** 爱好, 相似的人或事物\n**conj.** 如同, 好像",
+        "audio_path": "generated_audio\\like_us.mp3"
+    },
+    {
+        "word": "vacation",
+        "sentence": "We are planning a vacation to Hawaii next summer.",
+        "words": [
+            "We",
+            "are",
+            "planning",
+            "a",
+            "vacation",
+            "to",
+            "Hawaii",
+            "next",
+            "summer."
+        ],
+        "translation_text": "**音标:** /veɪˈkeɪʃən/\n\n**n.** 假期, 休假\n**v.** 度假, 休假",
+        "audio_path": "generated_audio\\vacation_us.mp3"
+    },
+    {
+        "word": "Hawaii",
+        "sentence": "I dream of visiting Hawaii one day.",
+        "words": [
+            "I",
+            "dream",
+            "of",
+            "visiting",
+            "Hawaii",
+            "one",
+            "day."
+        ],
+        "translation_text": "**音标:** /həˈwaɪi/\n\n**n.** 夏威夷（美国的一个州）",
+        "audio_path": "generated_audio\\Hawaii_us.mp3"
+    }
+]
