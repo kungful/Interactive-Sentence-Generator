@@ -4,7 +4,7 @@
 
 这是一个基于 Gradio 和 AI 的交互式 Web 应用，旨在通过“发散式思维”帮助用户学习和记忆英语单词。用户输入一个单词，应用会生成一个包含该单词的例句。例句中的每个单词都可以点击，点击后该单词将成为新的输入，从而开启一轮新的“头脑风暴”，帮助用户在语境中建立单词之间的联系。
 
-![应用截图](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png)
+<img width="1905" height="841" alt="Image" src="https://github.com/user-attachments/assets/59daf721-2532-429d-952f-61eb950ee56e" />
 *(请将上面的链接替换为您的应用截图)*
 
 ## ✨ 功能亮点
