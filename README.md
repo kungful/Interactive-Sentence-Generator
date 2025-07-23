@@ -1,5 +1,5 @@
 # 版权归全世界无产阶级者
-
+已经部署到huggingface，打开直接体验:https://huggingface.co/spaces/hua1998/Interactive-Sentence-Generator
 # 交互式发散思维单词记忆工具 (Interactive Sentence Generator)
 
 这是一个基于 Gradio 和 AI 的交互式 Web 应用，旨在通过“发散式思维”帮助用户学习和记忆英语单词。用户输入一个单词，应用会生成一个包含该单词的例句。例句中的每个单词都可以点击，点击后该单词将成为新的输入，从而开启一轮新的“头脑风暴”，帮助用户在语境中建立单词之间的联系。
